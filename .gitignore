@@ -1,4 +1,8 @@
-.venv/
 hw_11/
-__pycache__/
 .ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.streamlit/secrets.toml
+*.egg-info/
